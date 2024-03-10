@@ -2,8 +2,9 @@
 
 Acest proiect este un server web elementar scris in C. 
 Demonstreaza conceptele fundamentale ale programarii in retea, manipularea protocolului HTTP si interactiunile concurente client-server.
-Pentru rulare si testare, folositi instructiunile din www/teste.txt
-O prezentare mai ampla se afla in Webserver.pptx
+Pentru rulare si testare, folositi instructiunile din www/teste.txt.
+Script-ul pentru testarea load-ului este loadtest.sh.
+O prezentare mai ampla se afla in Webserver.pptx.
 
 # Caracteristici
 
