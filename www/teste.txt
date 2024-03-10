@@ -1,5 +1,7 @@
 gcc -o "Nume" Server.c ClientHandler.c HttpServer.c main.c -ljansson
 
+./"Nume"
+
   Test pentru Get request, file statice, text si binary
 curl http://localhost:8080/index.html
 curl http://localhost:8080/imagepng.png
